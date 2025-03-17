@@ -40,3 +40,13 @@ pnpm run dev
 ---
 
 ![screenshots](./docs/screenshots.jpg)
+
+---
+
+<a href="https://www.star-history.com/#sunls24/divination&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sunls24/divination&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sunls24/divination&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sunls24/divination&type=Date" />
+ </picture>
+</a>
